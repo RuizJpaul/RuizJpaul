@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jean Paul
 - 👀 I’m interested in programming languages
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Google
+- 💞️ I'm open to suggestions, please feel free to comment 
 - 📫 How to reach me jpaul.ruiz.1802@gmail.com
 
 
