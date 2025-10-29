@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jean Paul
 - 👀 I’m interested in programming languages
-- 🌱 I’m currently learning Frontend and Backend
+- 🌱 I’m currently learning Frontend and Backend on software development
 - 💞️ I'm open to suggestions, please feel free to comment 
 - 📫 How to reach me jpaul.ruiz.1802@gmail.com
 
